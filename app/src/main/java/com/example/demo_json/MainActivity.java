@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         try {
             // Đọc file JSON từ thư mục assets
-            String jsonString = loadJSONFromAsset("f.json");
+            String jsonString = loadJSONFromAsset("demo.json");
 
 
             //333

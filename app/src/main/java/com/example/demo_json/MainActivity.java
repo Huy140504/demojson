@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
             // Đọc file JSON từ thư mục assets
             String jsonString = loadJSONFromAsset("f.json");
 
+
+            //333
             // Parse chuỗi JSON thành đối tượng JSONObject
             JSONObject jsonObject = new JSONObject(jsonString);
 
